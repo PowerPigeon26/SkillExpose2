@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkillExpose2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfccd22eba82b7fdf51c0aca20ef40d31ceb8f45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b38d64d881d14f88ffb6da4cf662b706ec33fdce")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkillExpose2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkillExpose2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
