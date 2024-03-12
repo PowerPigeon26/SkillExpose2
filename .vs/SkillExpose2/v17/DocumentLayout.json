@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Repos\\SkillExpose2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "E:\\Repos\\SkillExpose2\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "E:\\Repos\\SkillExpose2\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-06T23:22:31.101Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Repos\\SkillExpose2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Repos\\SkillExpose2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T23:25:52.926Z",
               "EditorCaption": ""
             }
           ]
