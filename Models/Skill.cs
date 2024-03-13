@@ -14,5 +14,7 @@
         public string YTCode { get; set; } = "";
         public string TSStart { get; set; } = "";
         public string TSEnd { get; set; } = "";
+        public IEnumerable<Game> Games { get; set; }
+
     }
 }

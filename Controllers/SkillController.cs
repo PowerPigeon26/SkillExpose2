@@ -38,6 +38,31 @@ namespace SkillExpose2.Controllers
             return View(skill);
         }
 
+        public IActionResult UpdateSkillToDatabase(Skill skill)
+        {
+            repo.UpdateSkill(skill);
 
+            return RedirectToAction("ViewSkill", new { id = skill.ID });
+        }
+
+        public IActionResult InsertSkill()
+        {
+            var skill = repo.AssignCategory();
+
+            return View(skill);
+        }
+
+        public IActionResult InsertSkillToDatabase(Skill skill)
+        {
+            repo.InsertSkill(skill);
+
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult DeleteSkill(Skill skill)
+        {
+            repo.DeleteSkill(skill);
+            return RedirectToAction("Index");
+        }
     }
 }

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Repos\\SkillExpose2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\views\\skill\\updateskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:views\\skill\\updateskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\views\\skill\\viewskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:views\\skill\\viewskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +19,28 @@
       "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:iskillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\views\\skill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:views\\skill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\views\\skill\\insertskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:views\\skill\\insertskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\views\\skill\\viewskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:views\\skill\\viewskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\views\\skill\\updateskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:views\\skill\\updateskill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\views\\skill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:views\\skill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AA0FF7A-423B-480B-984F-391A0C39E915}|SkillExpose2.csproj|e:\\repos\\skillexpose2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,37 +58,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "InsertSkill.cshtml",
+              "DocumentMoniker": "E:\\Repos\\SkillExpose2\\Views\\Skill\\InsertSkill.cshtml",
+              "RelativeDocumentMoniker": "Views\\Skill\\InsertSkill.cshtml",
+              "ToolTip": "E:\\Repos\\SkillExpose2\\Views\\Skill\\InsertSkill.cshtml",
+              "RelativeToolTip": "Views\\Skill\\InsertSkill.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T19:10:01.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cs",
+              "DocumentMoniker": "E:\\Repos\\SkillExpose2\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Models\\Game.cs",
+              "ToolTip": "E:\\Repos\\SkillExpose2\\Models\\Game.cs",
+              "RelativeToolTip": "Models\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:44:28.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UpdateSkill.cshtml",
               "DocumentMoniker": "E:\\Repos\\SkillExpose2\\Views\\Skill\\UpdateSkill.cshtml",
               "RelativeDocumentMoniker": "Views\\Skill\\UpdateSkill.cshtml",
               "ToolTip": "E:\\Repos\\SkillExpose2\\Views\\Skill\\UpdateSkill.cshtml",
               "RelativeToolTip": "Views\\Skill\\UpdateSkill.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwCkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-13T00:56:31.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ViewSkill.cshtml",
               "DocumentMoniker": "E:\\Repos\\SkillExpose2\\Views\\Skill\\ViewSkill.cshtml",
               "RelativeDocumentMoniker": "Views\\Skill\\ViewSkill.cshtml",
               "ToolTip": "E:\\Repos\\SkillExpose2\\Views\\Skill\\ViewSkill.cshtml",
               "RelativeToolTip": "Views\\Skill\\ViewSkill.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwB8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-13T00:17:02.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\Repos\\SkillExpose2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -99,14 +133,14 @@
               "RelativeDocumentMoniker": "Controllers\\SkillController.cs",
               "ToolTip": "E:\\Repos\\SkillExpose2\\Controllers\\SkillController.cs",
               "RelativeToolTip": "Controllers\\SkillController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA9wCgAAAAAAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwEAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T22:40:59.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Repos\\SkillExpose2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -114,18 +148,17 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T22:28:40.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T22:28:40.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Repos\\SkillExpose2\\Views\\Skill\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Skill\\Index.cshtml",
               "ToolTip": "E:\\Repos\\SkillExpose2\\Views\\Skill\\Index.cshtml",
               "RelativeToolTip": "Views\\Skill\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-12T22:24:07.179Z",
               "EditorCaption": ""
@@ -138,7 +171,7 @@
               "RelativeDocumentMoniker": "SkillRepository.cs",
               "ToolTip": "E:\\Repos\\SkillExpose2\\SkillRepository.cs",
               "RelativeToolTip": "SkillRepository.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowBoAAAAsAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAA4wEkAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T22:17:12.022Z",
               "EditorCaption": ""
@@ -151,7 +184,7 @@
               "RelativeDocumentMoniker": "ISkillRepository.cs",
               "ToolTip": "E:\\Repos\\SkillExpose2\\ISkillRepository.cs",
               "RelativeToolTip": "ISkillRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T22:14:56.024Z",
               "EditorCaption": ""
@@ -164,14 +197,14 @@
               "RelativeDocumentMoniker": "Models\\Skill.cs",
               "ToolTip": "E:\\Repos\\SkillExpose2\\Models\\Skill.cs",
               "RelativeToolTip": "Models\\Skill.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T22:04:18.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Repos\\SkillExpose2\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -179,8 +212,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-06T23:25:52.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T23:25:52.926Z"
             }
           ]
         }

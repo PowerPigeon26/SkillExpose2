@@ -33,5 +33,45 @@ namespace SkillExpose2
                 addDes = skill.AdditionalDescription, notes = skill.Notes, ytvidName = skill.YTVideoName, ytcode = skill.YTCode,
                 start = skill.TSStart, end = skill.TSEnd, id = skill.ID});
         }
+
+        public void InsertSkill(Skill skill)
+        {
+            _conn.Execute("INSERT INTO skills (NAME, GAMEID, GAME, TYPE, INGAMEDESCRIPTION, ADDITIONALDESCRIPTION, NOTES, YTVIDEONAME," +
+                "YTCODE, TSSTART, TSEND) VALUES (@name, @gameid, @game, @type, @ingamedescription, @additionaldescription, @notes," +
+                "@ytvideoname, @ytcode, @tsstart, @tsend);",
+                new
+                {
+                    name = skill.Name,
+                    gameid = skill.GameID,
+                    game = skill.Game,
+                    type = skill.Type,
+                    ingamedescription = skill.InGameDescription,
+                    additionaldescription = skill.AdditionalDescription,
+                    notes = skill.Notes,
+                    ytvideoname = skill.YTVideoName,
+                    ytcode = skill.YTCode,
+                    tsstart = skill.TSStart,
+                    tsend = skill.TSEnd
+                });
+        }
+
+        public IEnumerable<Game> GetGames()
+        {
+            return _conn.Query<Game>("SELECT * FROM games;");
+        }
+
+        public Skill AssignCategory()
+        {
+            var gameList = GetGames();
+            var skill = new Skill();
+            skill.Games = gameList;
+
+            return skill;
+        }
+
+        public void DeleteSkill(Skill skill)
+        {
+            _conn.Execute("DELETE FROM skills WHERE ID = @id;", new { id = skill.ID });
+        }
     }
 }
