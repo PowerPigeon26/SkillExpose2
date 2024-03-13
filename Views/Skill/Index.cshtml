@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Skill>
+
+<h2>Skills</h2>
+<table class="table">
+    <tr>
+        <th>Name</th>
+    </tr>
+
+    @foreach (var skill in Model)
+    {
+        <tr>
+            <td><a href=/Skill/ViewSkill/@skill.ID>@skill.Name</a></td>
+        </tr>
+    }
+
+</table>

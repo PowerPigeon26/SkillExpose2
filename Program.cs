@@ -1,3 +1,7 @@
+using MySql.Data.MySqlClient;
+using System.Data;
+using SkillExpose2;
+
 namespace SkillExpose2
 {
     public class Program
@@ -5,6 +9,15 @@ namespace SkillExpose2
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddScoped<IDbConnection>((s) =>
+            {
+                IDbConnection conn = new MySqlConnection(builder.Configuration.GetConnectionString("skills"));
+                conn.Open();
+                return conn;
+            });
+
+            builder.Services.AddTransient<ISkillRepository, SkillRepository>();
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
